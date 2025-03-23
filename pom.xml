@@ -15,6 +15,7 @@
         <module>lession04-EL_JSTL</module>
         <module>lession05-cookie_session</module>
         <module>lession06-Filter</module>
+        <module>lession07-Listener</module>
     </modules>
 
     <properties>
