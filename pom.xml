@@ -16,6 +16,7 @@
         <module>lession05-cookie_session</module>
         <module>lession06-Filter</module>
         <module>lession07-Listener</module>
+        <module>lession08-file_up_down_load</module>
     </modules>
 
     <properties>
