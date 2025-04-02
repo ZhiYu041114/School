@@ -18,6 +18,7 @@
         <module>lession07-Listener</module>
         <module>lession08-file_up_down_load</module>
         <module>lession09-JDBC</module>
+        <module>lession10-Ajax</module>
     </modules>
 
     <properties>
