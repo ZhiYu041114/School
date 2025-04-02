@@ -1,8 +1,3 @@
-/**
- * @description:d
- * @author:halation
- * @date:2025/3/15 15:13
- **/
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

@@ -1,10 +1,3 @@
-/**
- * @description:jdbc
- * @author:halation
- * @date:2025/3/25 16:43
- **/
-
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;

@@ -1,9 +1,3 @@
-/**
- * @description:1
- * @author:halation
- * @date:2025/3/25 16:41
- **/
-
 public class Product {
     private int id;
 

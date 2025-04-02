@@ -6,11 +6,6 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-/**
- * @description:A
- * @author:halation
- * @date:2025/3/15 14:39
- **/
 @WebServlet("/a")
 public class ServletA extends HttpServlet {
     @Override
