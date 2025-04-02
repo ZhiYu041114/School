@@ -15,8 +15,8 @@ public class SwervletA extends HttpServlet {
         String name = req.getParameter("name");
         System.out.println(name);
         resp.setContentType("text/html;charset=UTF-8");
-        PrintWriter out = resp.getWriter();
-        out.println("<h1>Hello GET</h1>");
+        resp.setContentType("text/html;charset=UTF-8");
+        req.getRequestDispatcher("test.jsp").forward(req, resp);
         System.out.println("收到get请求");
     }
 

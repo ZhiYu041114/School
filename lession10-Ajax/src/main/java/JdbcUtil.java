@@ -5,7 +5,7 @@ public class JdbcUtil {
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/Javaweb";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "123456";
+    private static final String PASSWORD = "20041114Liuyu";
 
     // 初始化数据库连接
     public static Connection getConnection() {
